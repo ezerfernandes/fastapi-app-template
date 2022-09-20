@@ -1,0 +1,8 @@
+fastapi
+pydantic
+pydantic[dotenv]
+pytest
+uvicorn[standard]
+sqlmodel
+icontract
+pylint
